@@ -513,19 +513,19 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#8C8C8C"
+				"foreground": "#cc00ff"
 			}
 		},
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#FFEE99"
+				"foreground": "#cc00ff"
 			}
 		},
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#FF80F4"
+				"foreground": "#cc00ff"
 			}
 		},
 		{
@@ -887,13 +887,13 @@
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#F44747"
+				"foreground": "#ff00ea"
 			}
 		},
 		{
 			"scope": "token.debug-token",
 			"settings": {
-				"foreground": "#B267E6"
+				"foreground": "#9500ff"
 			}
 		}
 	]
